@@ -15,4 +15,5 @@ public class HotelEvent {
     private UUID hotelId;
     private String name;
     private String city;
+    private Double rating;
 }
